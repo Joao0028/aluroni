@@ -1,4 +1,5 @@
 # aluroni
-> Em desenvolvimento
 
-Repositório do projeto aluroni da alura, onde estou aprendendo sobre react - curso: "React: otimizando a performance".
+Repositório do projeto aluroni da alura, onde pude aprender a melhorar performance de páginas react.
+
+<a href="https://aluroni-murex-seven.vercel.app/" target="_blank" >Link do projeto</a> 
